@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="5_Thanks_Hindi" size="1.000000 0.774221" />
+    <ImageTarget name="4_Future_Hindi" size="1.000000 0.775281" />
+    <ImageTarget name="3_Presentation_Hindi" size="1.000000 0.772294" />
+    <ImageTarget name="2_PleasureMeeting_Hindi" size="1.000000 0.885262" />
+    <ImageTarget name="1_HowAreYou_Hindi" size="1.000000 0.882411" />
+  </Tracking>
+</QCARConfig>
